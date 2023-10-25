@@ -184,4 +184,16 @@ main section {
 .container{
 
     display: flex;
+    gap:50px;
+
+}
+
+.description{
+
+
+}
+
+.download-cv{
+    text-align:center;
+    margin-top: 50px;
 }
